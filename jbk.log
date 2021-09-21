@@ -1,0 +1,5 @@
+2021-04-30 12:04:03,759  INFO [main] Testbase:11 - initialising browser
+2021-04-30 12:04:07,609  INFO [main] Testbase:14 - chromdriver opened
+2021-04-30 12:04:09,289  INFO [main] Testbase:17 - jbk offline application lounched
+2021-04-30 12:04:09,289  INFO [main] LoginTest:14 - login to the apllication
+2021-04-30 12:04:09,898  INFO [main] LoginTest:18 - login succesfull

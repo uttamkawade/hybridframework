@@ -1,0 +1,9 @@
+2021-08-31 18:24:32,010  INFO [main] Testbase:28 - initialising browser
+2021-08-31 18:24:32,010  WARN [main] Testbase:30 - chromedriver file should present at the location
+2021-08-31 18:24:34,827  INFO [main] Testbase:37 - chromdriver opened
+2021-08-31 18:24:38,235  INFO [main] Testbase:40 - jbk offline application launched
+2021-08-31 18:24:38,380  INFO [main] Testbase:58 - testcase is started with name login
+2021-08-31 18:24:38,380  INFO [main] LoginTest:35 - login to the application
+2021-08-31 18:24:39,187  INFO [main] LoginTest:37 - login sucessfull
+2021-08-31 18:24:39,422  INFO [main] LoginTest:39 - Logout Sucessfull
+2021-08-31 18:24:39,422  INFO [main] Testbase:63 - testcase is success with name login
